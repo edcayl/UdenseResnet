@@ -1,5 +1,7 @@
 Pasos:
 1) Crear archivos H5:
-2) Entrenamiento:
-3) Test
-4) 
+       Generate_db.py
+3) Entrenamiento:
+       Train.py
+5) Test
+       Test.py
